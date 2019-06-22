@@ -1,4 +1,4 @@
-mport React from 'react';
+import React from 'react';
 import "./Item.css";
 
 const Item = ({name, image, onClick}) =>

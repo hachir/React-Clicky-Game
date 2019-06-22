@@ -131,7 +131,7 @@ class App extends Component {
         <div className="content">
           {this.handleRenderCharacters()}
         </div>
-        <Footer />
+         <Footer/>
       </div>
     );
   }
